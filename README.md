@@ -23,12 +23,7 @@
 - One Roadmap
 - IALSD — Data Analytics
 - Udemy — SQL & AWS
-- NPTEL — Management Elite + Silver
-
-### 📈 GitHub Stats
-
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya-Kashyap&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Kashyap&layout=compact&theme=radical)
+- NPTEL — Principles Of Management (Elite + Silver)
 
 ### 📫 Connect with me
 LinkedIn: https://www.linkedin.com/in/soumya2712/
