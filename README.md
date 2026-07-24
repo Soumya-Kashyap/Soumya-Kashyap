@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Soumya Kashyap👋
 
-<!--
-**Soumya-Kashyap/Soumya-Kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE student at Narula Institute of Technology, Kolkata | CGPA 8.55/10
+📊 Interested in Data Analytics, AI/ML, and building practical software
+🌱 Currently exploring Excel, SQL, and Python (Pandas, Matplotlib) for data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I've Been Building
+- 🎬 **Movie Data Analysis** — Exploratory data analysis project on Kaggle movie datasets
+- 🧳 **Portfolio Website with AI Chatbot** — Built during a GenAI Engineer internship at AI Wallah
+
+### 🛠 Tech Stack
+
+**Languages:** Python · Java · C · SQL · JavaScript 
+**Web:** HTML · CSS
+**Tools & Platforms:** AWS · Git · Figma
+
+### 📜 Certifications
+- HackerRank — Python & SQL
+- Infosys Springboard
+- One Roadmap
+- IALSD — Data Analytics
+- Udemy — SQL & AWS
+- NPTEL — Management Elite + Silver
+
+### 📈 GitHub Stats
+
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya-Kashyap&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Kashyap&layout=compact&theme=radical)
+
+### 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/soumya2712/
+E-mail:   soumyakashyap2712@gmail.com
